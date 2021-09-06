@@ -32,7 +32,7 @@ Manual Install
 
 Install pre-requisites,
 
-* Python 2.7
+* Python 3.6
 * MariaDB
 * Redis
 * [wkhtmltopdf](http://wkhtmltopdf.org/downloads.html) (optional, required for pdf generation)
